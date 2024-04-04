@@ -10,3 +10,6 @@ This model can be utilized as per specific requirements, including:
 
 ### Accuracy
 The Hierarchical Clustering algorithm exhibited outstanding performance, achieving a silhouette score of 0.943. This indicates the model's exceptional ability to accurately identify and delineate hotspots within the specified area.
+
+### Used Dataset
+https://www.kaggle.com/datasets/gpreda/coronavirus-2019ncov
