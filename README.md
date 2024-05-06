@@ -1,7 +1,7 @@
 # Hotspot-Detection
 
 ### Description
-The Hotspot Detector project is a machine learning-based initiative aimed at identifying hotspots within a defined geographic region. Leveraging a variety of algorithms, including K-Means, Birch, Gaussian Mixture Model, Hierarchical Clustering, and Mean-Shift Clustering, the project employs sophisticated clustering techniques to pinpoint areas of interest. Validation of the algorithmic results is conducted using robust metrics such as the Silhouette Score, Heatmap, Confusion Matrix, and Confusion Report.
+The Hotspot Detector project is a machine learning-based initiative aimed at identifying hotspots within a defined geographic region. Leveraging a variety of algorithms, including K-Means, Birch, Gaussian Mixture Model, Hierarchical Clustering, and Mean-Shift Clustering, the project employs sophisticated clustering techniques to pinpoint areas of interest. Validation of the algorithmic results is conducted using robust metrics such as the Silhouette Score and Heatmap.
 
 ### Uses
 This model can be utilized as per specific requirements, including:
